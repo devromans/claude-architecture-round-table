@@ -40,7 +40,7 @@ You provide a specification, design document, or architectural question. The age
 
 ```bash
 git clone https://github.com/devromans/claude-architecture-round-table
-cd architecture-round-table
+cd claude-architecture-round-table
 ```
 
 Agent Teams are experimental and disabled by default. This repo includes `.claude/settings.json` that enables them automatically via `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1`. If you need to enable manually:
